@@ -3,6 +3,7 @@
 ```bash
 fastapi dev main.py
 ```
+⚠️ **IMPORTANTE:** Asegúrate de tener el archivo `polizas_full.csv` en el mismo directorio antes de correr el script.
 
 
 ## Endpoints
